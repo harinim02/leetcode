@@ -1,5 +1,7 @@
 # LeetCode problems and its solutions
 
+[2. Add Two Numbers](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/2.%20Add%20Two%20Numbers)
+
 [11. Container With Most Water](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/11.%20Container%20With%20Most%20Water)
 
 [61. Rotate List](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/61.%20Rotate%20List)
@@ -13,3 +15,5 @@
 [1302. Deepest Leaves Sum](https://github.com/harinim02/leetcode/tree/main/Tree/Medium/1302.%20Deepest%20Leaves%20Sum)
 
 [1304. Find N Unique Integers Sum up to Zero](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero)
+
+### Total solutions in this git: 8
