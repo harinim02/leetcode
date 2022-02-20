@@ -1,5 +1,5 @@
-##2155. All Divisions With the Highest Score of a Binary Array
-###Medium
+## 2155. All Divisions With the Highest Score of a Binary Array
+### Medium
 
 You are given a 0-indexed binary array `nums` of length `n`. `nums` can be divided at index `i` (where `0 <= i <= n`) into two arrays (possibly empty) `numsleft` and `numsright`:
 
