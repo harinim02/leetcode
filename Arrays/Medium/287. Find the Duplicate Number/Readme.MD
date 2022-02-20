@@ -1,5 +1,5 @@
-##287. Find the Duplicate Number
-###Medium
+## 287. Find the Duplicate Number
+### Medium
 
 Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.
 
