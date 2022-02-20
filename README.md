@@ -16,8 +16,11 @@
 [328. Odd Even Linked List](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/328.%20Odd%20Even%20Linked%20List)  
 [653. Two Sum IV - Input is a BST](https://github.com/harinim02/leetcode/tree/main/Tree/Easy/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST)  
 [704. Binary Search](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/704.%20Binary%20Search)  
+[1265. Print Immutable Linked List in Reverse](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/1265.%20Print%20Immutable%20Linked%20List%20in%20Reverse)  
 [1302. Deepest Leaves Sum](https://github.com/harinim02/leetcode/tree/main/Tree/Medium/1302.%20Deepest%20Leaves%20Sum)  
 [1304. Find N Unique Integers Sum up to Zero](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero)  
+[1570. Dot Product of Two Sparse Vectors](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors)  
+[1874. Minimize Product Sum of Two Arrays](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/1874.%20Minimize%20Product%20Sum%20of%20Two%20Arrays)  
 [1929. Concatenation of Array
 ](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/1929.%20Concatenation%20of%20Array)  
 [1935. Maximum Number of Words You Can Type](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type)  
@@ -33,7 +36,7 @@
 [2176. Count Equal and Divisible Pairs in an Array](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/2176.%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array)  
 [2177. Find Three Consecutive Integers That Sum to a Given Number](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/2177.%20Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number)  
 
-### Total solutions in this git: 31
+### Total solutions in this git: 34
 #### Easy: 16
-#### Medium: 15
+#### Medium: 18
 #### Hard: 
