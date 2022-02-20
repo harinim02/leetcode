@@ -1,5 +1,5 @@
-##2133. Check if Every Row and Column Contains All Numbers
-###Easy
+## 2133. Check if Every Row and Column Contains All Numbers
+### Easy
 
 An `n x n` matrix is valid if every row and every column contains all the integers from `1` to `n` (inclusive).
 
