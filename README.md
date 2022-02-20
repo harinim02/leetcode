@@ -35,6 +35,7 @@
 [2155. All Divisions With the Highest Score of a Binary Array](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/2155.%20All%20Divisions%20With%20the%20Highest%20Score%20of%20a%20Binary%20Array)  
 [2176. Count Equal and Divisible Pairs in an Array](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/2176.%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array)  
 [2177. Find Three Consecutive Integers That Sum to a Given Number](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/2177.%20Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number)  
+[2181. Merge Nodes in Between Zeros](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/2181.%20Merge%20Nodes%20in%20Between%20Zeros)  
 
 ### Total solutions in this git: 34
 #### Easy: 16
