@@ -37,7 +37,7 @@
 [2177. Find Three Consecutive Integers That Sum to a Given Number](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/2177.%20Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number)  
 [2181. Merge Nodes in Between Zeros](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/2181.%20Merge%20Nodes%20in%20Between%20Zeros)  
 
-### Total solutions in this git: 34
+### Total solutions in this git: 35
 #### Easy: 16
-#### Medium: 18
+#### Medium: 19
 #### Hard: 
