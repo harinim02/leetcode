@@ -20,10 +20,12 @@
 [1302. Deepest Leaves Sum](https://github.com/harinim02/leetcode/tree/main/Tree/Medium/1302.%20Deepest%20Leaves%20Sum)  
 [1304. Find N Unique Integers Sum up to Zero](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero)  
 [1570. Dot Product of Two Sparse Vectors](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors)  
+[1762. Buildings With an Ocean View](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/1762.%20Buildings%20With%20an%20Ocean%20View)  
 [1874. Minimize Product Sum of Two Arrays](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/1874.%20Minimize%20Product%20Sum%20of%20Two%20Arrays)  
 [1929. Concatenation of Array
 ](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/1929.%20Concatenation%20of%20Array)  
 [1935. Maximum Number of Words You Can Type](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type)  
+[1944. Number of Visible People in a Queue](https://github.com/harinim02/leetcode/tree/main/Arrays/Hard/1944.%20Number%20of%20Visible%20People%20in%20a%20Queue)
 [2129. Capitalize the Title](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/2129.%20Capitalize%20the%20Title)  
 [2130. Maximum Twin Sum of a Linked List](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List)  
 [2133. Check if Every Row and Column Contains All Numbers](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers)  
@@ -37,7 +39,7 @@
 [2177. Find Three Consecutive Integers That Sum to a Given Number](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/2177.%20Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number)  
 [2181. Merge Nodes in Between Zeros](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/2181.%20Merge%20Nodes%20in%20Between%20Zeros)  
 
-### Total solutions in this git: 35
+### Total solutions in this git: 37
 #### Easy: 16
-#### Medium: 19
-#### Hard: 
+#### Medium: 20
+#### Hard: 1
