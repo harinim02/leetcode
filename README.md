@@ -7,6 +7,7 @@
 [14. Longest Common Prefix](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/14.%20Longest%20Common%20Prefix)  
 [19. Remove Nth Node From End of List](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)  
 [20. Valid Parentheses](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/20.%20Valid%20Parentheses)  
+[31. Next Permutation](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/31.%20Next%20Permutation)  
 [35. Search Insert Position](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/35.%20Search%20Insert%20Position)  
 [61. Rotate List](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/61.%20Rotate%20List)  
 [86. Partition List](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/86.%20Partition%20List)  
@@ -14,8 +15,12 @@
 [215. Kth Largest Element in Array.](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/215.%20Kth%20Largest%20Element%20in%20an%20Array)  
 [287. Find the Duplicate Number](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/287.%20Find%20the%20Duplicate%20Number)  
 [328. Odd Even Linked List](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/328.%20Odd%20Even%20Linked%20List)  
+[496. Next Greater Element I](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/496.%20Next%20Greater%20Element%20I)  
+[503. Next Greater Element II](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/503.%20Next%20Greater%20Element%20II) 
+[556. Next Greater Element III](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/556.%20Next%20Greater%20Element%20III)  
 [653. Two Sum IV - Input is a BST](https://github.com/harinim02/leetcode/tree/main/Tree/Easy/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST)  
 [704. Binary Search](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/704.%20Binary%20Search)  
+[739. Daily Temperatures](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/739.%20Daily%20Temperatures)  
 [1265. Print Immutable Linked List in Reverse](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/1265.%20Print%20Immutable%20Linked%20List%20in%20Reverse)  
 [1302. Deepest Leaves Sum](https://github.com/harinim02/leetcode/tree/main/Tree/Medium/1302.%20Deepest%20Leaves%20Sum)  
 [1304. Find N Unique Integers Sum up to Zero](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero)  
@@ -39,7 +44,7 @@
 [2177. Find Three Consecutive Integers That Sum to a Given Number](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/2177.%20Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number)  
 [2181. Merge Nodes in Between Zeros](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/2181.%20Merge%20Nodes%20in%20Between%20Zeros)  
 
-### Total solutions in this git: 37
-#### Easy: 16
-#### Medium: 20
+### Total solutions in this git: 42
+#### Easy: 17
+#### Medium: 24
 #### Hard: 1
