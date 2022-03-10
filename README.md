@@ -7,23 +7,33 @@
 [14. Longest Common Prefix](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/14.%20Longest%20Common%20Prefix)  
 [19. Remove Nth Node From End of List](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)  
 [20. Valid Parentheses](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/20.%20Valid%20Parentheses)  
+[21. Merge Two Sorted Lists](https://github.com/harinim02/leetcode/blob/main/LinkedList/Easy/21.%20Merge%20Two%20Sorted%20Lists/Readme.MD)  
 [31. Next Permutation](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/31.%20Next%20Permutation)  
 [35. Search Insert Position](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/35.%20Search%20Insert%20Position)  
 [61. Rotate List](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/61.%20Rotate%20List)  
+[82. Remove Duplicates from Sorted List II](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II)  
 [86. Partition List](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/86.%20Partition%20List)  
+[136. Single Number](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/136.%20Single%20Number)  
+[141. Linked List Cycle](https://github.com/harinim02/leetcode/tree/main/LinkedList/Easy/141.%20Linked%20List%20Cycle)  
 [167. Two Sum II - Input Array Is Sorted](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)  
 [215. Kth Largest Element in Array.](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/215.%20Kth%20Largest%20Element%20in%20an%20Array)  
+[217. Contains Duplicate](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/217.%20Contains%20Duplicate)  
 [287. Find the Duplicate Number](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/287.%20Find%20the%20Duplicate%20Number)  
 [328. Odd Even Linked List](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/328.%20Odd%20Even%20Linked%20List)  
+[344. Reverse String](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/344.%20Reverse%20String)  
+[392. Is Subsequence](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/392.%20Is%20Subsequence)  
 [496. Next Greater Element I](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/496.%20Next%20Greater%20Element%20I)  
 [503. Next Greater Element II](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/503.%20Next%20Greater%20Element%20II) 
 [556. Next Greater Element III](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/556.%20Next%20Greater%20Element%20III)  
 [653. Two Sum IV - Input is a BST](https://github.com/harinim02/leetcode/tree/main/Tree/Easy/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST)  
 [704. Binary Search](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/704.%20Binary%20Search)  
 [739. Daily Temperatures](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/739.%20Daily%20Temperatures)  
+[1100. Find K-Length Substrings With No Repeated Characters](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/1100.%20Find%20K-Length%20Substrings%20With%20No%20Repeated%20Characters)  
 [1265. Print Immutable Linked List in Reverse](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/1265.%20Print%20Immutable%20Linked%20List%20in%20Reverse)  
 [1302. Deepest Leaves Sum](https://github.com/harinim02/leetcode/tree/main/Tree/Medium/1302.%20Deepest%20Leaves%20Sum)  
 [1304. Find N Unique Integers Sum up to Zero](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero)  
+[1528. Shuffle String](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/1528.%20Shuffle%20String)  
+[1534. Count Good Triplets](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/1534.%20Count%20Good%20Triplets)  
 [1570. Dot Product of Two Sparse Vectors](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors)  
 [1762. Buildings With an Ocean View](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/1762.%20Buildings%20With%20an%20Ocean%20View)  
 [1874. Minimize Product Sum of Two Arrays](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/1874.%20Minimize%20Product%20Sum%20of%20Two%20Arrays)  
@@ -43,8 +53,9 @@
 [2176. Count Equal and Divisible Pairs in an Array](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/2176.%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array)  
 [2177. Find Three Consecutive Integers That Sum to a Given Number](https://github.com/harinim02/leetcode/tree/main/Arrays/Medium/2177.%20Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number)  
 [2181. Merge Nodes in Between Zeros](https://github.com/harinim02/leetcode/tree/main/LinkedList/Medium/2181.%20Merge%20Nodes%20in%20Between%20Zeros)  
+[2185. Counting Words With a Given Prefix](https://github.com/harinim02/leetcode/tree/main/Arrays/Easy/2185.%20Counting%20Words%20With%20a%20Given%20Prefix)  
 
-### Total solutions in this git: 42
-#### Easy: 17
-#### Medium: 24
+### Total solutions in this git: 53
+#### Easy: 26
+#### Medium: 26
 #### Hard: 1
